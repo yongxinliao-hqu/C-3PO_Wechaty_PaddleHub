@@ -32,6 +32,10 @@ B站链接
 https://www.bilibili.com/video/BV1d44y1q7To?share_source=copy_web
 
 
+AIStudio链接
+
+https://aistudio.baidu.com/aistudio/projectdetail/2174180
+
 星际通讯器
 
 协助你通过Aurebesh语与星球大战角色进行通讯

@@ -44,7 +44,10 @@ https://www.bilibili.com/video/BV1d44y1q7To?share_source=copy_web
 ![Demo](https://github.com/yongxinliao-hqu/C-3PO_Wechaty_PaddleHub/blob/main/Demo%20Images/Demo%201.png)
 ![Demo](https://github.com/yongxinliao-hqu/C-3PO_Wechaty_PaddleHub/blob/main/Demo%20Images/Demo%202.png)
 
-使用方法
+###欢迎 Star 和 Fork :)
+![Star Fork](https://github.com/yongxinliao-hqu/C-3PO_Wechaty_PaddleHub/blob/main/Demo%20Images/star_fork.png)
+
+## 使用方法
 
 第一步，在AIStudio中，创建脚本项目，创建文件夹，放入对应的文件
 
